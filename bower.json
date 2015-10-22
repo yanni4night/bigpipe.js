@@ -1,0 +1,25 @@
+{
+  "name": "bigpipe.js",
+  "version": "0.1.0",
+  "authors": [
+    "yanni4night@gmail.com"
+  ],
+  "description": "A big-pipe implementation",
+  "main": "bigpipe.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "bigpipe"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

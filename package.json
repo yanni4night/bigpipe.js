@@ -1,0 +1,27 @@
+{
+  "name": "bigpipe.js",
+  "version": "0.1.0",
+  "description": "A big-pipe implementation",
+  "main": "bigpipe.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanni4night/bigpipe.js.git"
+  },
+  "keywords": [
+    "bigpipe"
+  ],
+  "author": "yanni4night@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanni4night/bigpipe.js/issues"
+  },
+  "homepage": "https://github.com/yanni4night/bigpipe.js",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "load-grunt-tasks": "^3.3.0",
+    "time-grunt": "^1.2.2"
+  }
+}
